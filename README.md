@@ -1,6 +1,6 @@
 # Person Blocker Using Webcam
 
-<p align="center"><img src="example_image.jpg" height = "400"></p>
+<p align="center"><img src="example_image.png" height = "400"></p>
 
 Block out all persons live (shown in **Black Mirror's White Christmas episode**), using webcam and google colab notebook (with GPU)
 
